@@ -1,0 +1,8 @@
+C003|Dress|20|49.99|S|Red|Clothing
+E003|Headphones|25|79.99|Sony|2|Electronics
+C004|Hoodie|25|39.99|XL|Gray|Clothing
+C002|Jeans|30|34.99|L|Blue|Clothing
+E002|Laptop|15|899.99|Dell|2|Electronics
+E001|SmartTV|2|599.99|Samsung|12|Electronics
+E004|Smartwatch|10|149.99|Apple|1|Electronics
+C001|T-Shirt|20|19.99|M|Black|Clothing
